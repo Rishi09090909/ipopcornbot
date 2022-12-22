@@ -18,17 +18,17 @@ class Config(object):
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
-    START_MSG = os.getenv("START_MSG", '''Hᴇʏ! {} 😅,
+    START_MSG = os.getenv("START_MSG", '''𝐇ᴇʏ! {} 😅,
 
-Mᴇ! Sʜᴀʀᴇᴅɪꜱᴋ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Bᴏᴛ.🤖
+𝐌ᴇ! 𝐈 𝐏ᴏᴘᴄᴏʀɴ 𝐌ᴏᴠɪᴇ 𝐁ᴏᴛ.🤖
 
-I Cᴀɴ Sᴇᴀʀᴄʜ Mᴏᴠɪᴇꜱ Fᴏʀ Yᴏᴜ.🔍
+𝐈 𝐂ᴀɴ 𝐒ᴇᴀʀᴄʜ 𝐌ᴏᴠɪᴇꜱ 𝐅ᴏʀ 𝐘ᴏᴜ.🔍
 
-Mᴀᴅᴇ Wɪᴛʜ ❤ Bʏ
+𝐌ᴀᴅᴇ 𝐖ɪᴛʜ ❤ 𝐁ʏ
 @Rk_botowner
 
 ''')
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/0a066a392357f9fec78d2.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/99e311290ec06486bcc8f.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", '''ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ,
