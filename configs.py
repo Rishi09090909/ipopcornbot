@@ -11,7 +11,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "c578b64ac7af52f363f9e0ebfbc67923")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5827452813:AAEjVB1xaNh3kL_qeGuw8aX53VVttFekWkk")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "MdiskSearchRobot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOIQBuyLs9EyDGR3-9TTiaTdxSNJ3OjoCiEqyVQYEa_aKIkm8BDZNuQTDjrUtoBjQaOGLIBJj-v7GDXx4175-mIxNIUO3ab0s5Zu-ZtmaoriCDmha4fngwXggMSGl-KLhHr0sxegF3CJWu7jflxbopDWX3wUKjN-ShNoeeKRvQWRG7nFcD-rE9OxGCosRtLON4wMFyuHZWjvamiDSX87ZWDPA3K-kHDWvd6Rwu3H0dqqSGvYiaVy-IPoFay-xOWtvg3WJxYA9baD6g400JSeG1PB7fSv3x_bNjxLLggQZoV0JWbtYZ4pJbQmgNcSKfsRoR4WjKtAP_K3WC-a1f85G3yZEcZc=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001856402326"))
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Ipopcorns_bot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5313004751"))
