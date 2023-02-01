@@ -142,7 +142,7 @@ async def message_handler(event):
     except Exception as e:
         print(e)
         await txt.delete()
-        result = await event.reply("https://ipmoviesgroup.blogspot.com/search?q="{event.text}"+")
+        result = await event.reply("http://ipopcornmovies.rf.gd/?s="{event.text}"+")
         await asyncio.sleep(Config.AUTO_DELETE_TIME)
         await event.delete() 
         return await result.delete()
